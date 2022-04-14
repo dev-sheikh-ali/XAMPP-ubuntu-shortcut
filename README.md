@@ -1,3 +1,6 @@
+![Screenshot of sticky note]()
+
+
 ### 1. Open terminal:
   
     sudo gedit /usr/share/applications/XAMPP.desktop
