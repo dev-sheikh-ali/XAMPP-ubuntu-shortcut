@@ -1,5 +1,5 @@
-![Screenshot of sticky note]()
 
+<img align="right" alt="GIF" src="Screenshot.png" width="500" height="400" />
 
 ### 1. Open terminal:
   
